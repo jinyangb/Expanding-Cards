@@ -10,7 +10,7 @@
 
 **_Description_**
 
-Expanding cards project. A set of 5 cards that expand when clicked upon.
+Expanding cards project. A set of 5 cards that expand when clicked.
 
 ---
 
