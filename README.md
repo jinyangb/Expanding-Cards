@@ -1,10 +1,7 @@
-# Expanding-Cards
+# Expanding Cards
 
-## Date: 9/20/2021
 
-#### By: Jin Yang
-
-[Git](https://github.com/jinyangb/Filmzilla)
+[Git](https://github.com/jinyangb/expanding-cards)
 
 ---
 
